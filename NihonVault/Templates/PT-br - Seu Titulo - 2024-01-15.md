@@ -1,9 +1,11 @@
 ---
-tags: 
+tags:
+  - PT-br
+  - Templates
 aliases: 
 Author:
   - Cluyverth W.
-Date: {{date}}
+Date: {{ date }}
 ---
 # Título
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - EN-us
+  - MOC
 aliases:
   - Escolas de Língua Japonesa
 Author:
