@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1736970572941,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736970555125,
+          "path": "Notes/PT-br - Bem Vindo - 2025-01-15.md",
+          "title": "Bem Vindo"
+        },
+        {
+          "type": "file",
+          "ctime": 1736970540772,
+          "path": "Notes/EN-us - Welcome - 2025-01-15.md",
+          "title": "Welcome"
+        }
+      ],
+      "title": "Welcome"
+    }
+  ]
+}
