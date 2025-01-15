@@ -2,6 +2,8 @@
 
 A collaborative knowledge base for aspiring exchange students and workers in Japan. Whether you're starting your journey or already familiar with the process, this project is for you!
 
+![Image of The Project](./src/Images/image.png)
+![Image of The Project](./src/Images/image2.png)
 
 ---
 
