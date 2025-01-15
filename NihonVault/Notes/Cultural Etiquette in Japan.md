@@ -1,6 +1,7 @@
 ---
 tags:
   - EN-us
+  - MOC
 aliases:
   - Etiqueta Cultural no Japão
 Author:

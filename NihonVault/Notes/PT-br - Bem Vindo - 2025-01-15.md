@@ -3,6 +3,7 @@ tags:
   - PT-br
   - welcome
   - introduction
+  - MOC
 aliases: 
 Author:
   - Cluyverth W.

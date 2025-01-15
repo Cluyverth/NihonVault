@@ -1,6 +1,7 @@
 ---
 tags:
   - EN-us
+  - MOC
 aliases:
   - Encontrando um Emprego no Japão
 Author:

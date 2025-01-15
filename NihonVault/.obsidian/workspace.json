@@ -40,50 +40,21 @@
               "icon": "lucide-file",
               "title": "PT-br - Bem Vindo - 2025-01-15"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "531cdc05f3a9c374",
+        "type": "tabs",
+        "children": [
           {
-            "id": "198d5f54a097bf0c",
+            "id": "40a03c21be5ab0f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Cultural Etiquette in Japan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cultural Etiquette in Japan"
-            }
-          },
-          {
-            "id": "9ccd55990c5746b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Finding a Job in Japan.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding a Job in Japan"
-            }
-          },
-          {
-            "id": "6bbb5e523c3c98cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Japanese Language Schools.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Japanese Language Schools"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -231,13 +202,13 @@
   "active": "005a5c93fbbb01eb",
   "lastOpenFiles": [
     "Notes/PT-br - Bem Vindo - 2025-01-15.md",
-    "Notes/Japanese Language Schools.md",
-    "Notes/Cultural Etiquette in Japan.md",
-    "Notes/Finding a Job in Japan.md",
     "Notes/EN-us - Welcome - 2025-01-15.md",
-    "Untitled.md",
     "Templates/EN-us - Your Title - 2024-01-15.md",
     "Templates/PT-br - Seu Titulo - 2024-01-15.md",
+    "Notes/Japanese Language Schools.md",
+    "Notes/Finding a Job in Japan.md",
+    "Notes/Cultural Etiquette in Japan.md",
+    "Untitled.md",
     "work.md",
     "NihonVault/CONTRIBUTING.md",
     "NihonVault",

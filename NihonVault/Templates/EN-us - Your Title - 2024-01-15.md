@@ -1,6 +1,7 @@
 ---
 tags:
   - EN-us
+  - Templates
 aliases: 
 Author:
   - Cluyverth W.
